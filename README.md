@@ -1,19 +1,18 @@
-```markdown
 # Album Cover AI
 
-Album Cover AI is a web application that uses Hugging Face's Stable Diffusion 2.1 model to generate album cover art based on user input. This repository contains both the frontend and backend code for the application.
+Album Cover AI is a web application that leverages Hugging Face's Stable Diffusion 2.1 model to create unique album cover art based on user input. This repository contains both frontend and backend code for the application.
 
 ## Features
 
-- Generate unique album cover art based on user-provided text.
+- Generate distinctive album cover art from user-provided text.
 - Save the generated album cover art locally.
 
 ## Technologies Used
 
-- [FastAPI](https://fastapi.tiangolo.com/): FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+.
-- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [FastAPI](https://fastapi.tiangolo.com/): A modern, high-performance web framework for building APIs with Python 3.7+.
+- [React](https://reactjs.org/): A JavaScript library for constructing user interfaces.
 - [axios](https://axios-http.com/): A promise-based HTTP client for the browser and Node.js.
-- [Hugging Face](https://huggingface.co/): Provides a large collection of pre-trained models for natural language processing and computer vision.
+- [Hugging Face](https://huggingface.co/): Offers a vast collection of pre-trained models for natural language processing and computer vision.
 
 ## Getting Started
 
@@ -28,41 +27,41 @@ Album Cover AI is a web application that uses Hugging Face's Stable Diffusion 2.
 
 1. Navigate to the `backend` directory.
 
-```bash
-cd backend
-```
+    ```bash
+    cd backend
+    ```
 
 2. Install dependencies.
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. Run the FastAPI server.
 
-```bash
-uvicorn main:app --reload
-```
+    ```bash
+    uvicorn main:app --reload
+    ```
 
 #### Frontend
 
 1. Navigate to the `frontend` directory.
 
-```bash
-cd frontend
-```
+    ```bash
+    cd frontend
+    ```
 
 2. Install dependencies.
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 3. Run the React app.
 
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
 
@@ -80,6 +79,3 @@ npm start
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This is a basic structure, and you can add more details, such as screenshots, a detailed description, and usage instructions based on your application's features.
