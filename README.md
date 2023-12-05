@@ -62,7 +62,7 @@ Album Cover AI is a web application that leverages Hugging Face's Stable Diffusi
     ```bash
     npm run dev
     ```
-## GENERATE ACCESS TOKEN TO USE FROM HUGGING FACE AND UPDATE IN `main.py` in backend.
+### GENERATE ACCESS TOKEN TO USE FROM HUGGING FACE AND UPDATE IN `main.py` in backend.
 ![image](https://github.com/ARPIT2128/cover-art-ai/assets/93235104/73899cfa-3dd5-4e65-b579-8b7a86585afb)
 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
