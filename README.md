@@ -75,6 +75,8 @@ Album Cover AI is a web application that leverages Hugging Face's Stable Diffusi
 
 - `backend`: Contains the FastAPI backend code.
 - `frontend`: Contains the React frontend code.
+## Screenshot
+![image](https://github.com/ARPIT2128/cover-art-ai/assets/93235104/2120d783-ea64-4eab-a1f8-3a7f6b14ff5c)
 
 ## License
 
