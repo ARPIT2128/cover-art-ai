@@ -60,7 +60,7 @@ Album Cover AI is a web application that leverages Hugging Face's Stable Diffusi
 3. Run the React app.
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
