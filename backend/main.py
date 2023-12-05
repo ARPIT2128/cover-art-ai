@@ -33,7 +33,7 @@ class InputText(BaseModel):
 
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
 HEADERS = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer YOUR_TOKEN_KEY",
     "Content-Type": "application/json",
 }
 
